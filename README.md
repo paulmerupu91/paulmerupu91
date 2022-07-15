@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulmerupu91
 - 👀 I’m interested in building slick apps using React
 - 🌱 I’m currently learning MongoDB, Docker and TypeScript
-- 📫 Reach me at paulmerupu@gmail.com
+- 📫 Reach me at paulmerupu91@gmail.com
 
 <!---
 paulmerupu91/paulmerupu91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
