@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulmerupu91
-- 👀 I’m interested in building slick apps using React
-- 🌱 I’m currently learning MongoDB, Docker and TypeScript
+- 👀 I like to build solid web and mobile applications
+- 🌱 I’m currently learning system design, React Native and data science.
 - 📫 Reach me at paulmerupu91@gmail.com
 
 <!---
